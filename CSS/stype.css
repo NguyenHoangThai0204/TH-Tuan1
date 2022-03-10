@@ -1,0 +1,152 @@
+.cau1a{
+    background-color: coral;
+    text-align: center;
+}
+.cau1b{}
+.cau1c{
+    background-color: burlywood;
+}
+.cau31{
+    margin:auto;
+    width: 580px;
+    height: 250px;
+    box-shadow: 5px -3px 5px 10px grey
+}
+.cau32{
+    margin:auto;
+    width: 580px;
+    height: 280px;
+    box-shadow: 5px 10px 5px 10px grey;
+    position: relative;
+}
+.home{
+   padding: 5px 5px; 
+}
+.hinhCuoi{
+    width: 13.5%;
+    height: 80px;
+    float: left;
+}
+.hinhNha{
+    height: 150px;
+}
+.hinhTren{
+    position: relative;
+    height: 100px;
+}
+.hinhCaChua{
+    width: 17.5%;
+    height: 80px;
+    float: left;
+    position:relative ;
+    border: 1px;
+    padding: 10px;
+}
+.noiDung32{
+    height: 110px;
+    margin: 5px;
+    width: 70%;
+    display: flex;
+    padding: 5px;
+}
+.hinhTren32{
+    position: relative;
+    height: 100px;
+}
+.hinhDuoi32{
+    position: relative;
+    height: 100px;
+}
+.noiDung32d{
+    height: 110px;
+    margin: 5px;
+    width: 70%;
+    display: flex;
+    padding: 5px;
+    float: left;
+}
+.hinhCai{
+    width: 17.5%;
+}
+.cau41{
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 0px 2px 5px grey;
+
+}
+.cau42{
+    margin: auto;
+    width: 250px;
+    height: 600px;
+    background-color:burlywood;
+    padding-left: 0;
+    box-shadow:0 0 3px 8px grey;
+}
+.cau43{
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    border: 2px ridge black; /*viền đen ridge*/
+    box-shadow: 0px 8px 5px 5px gray ;
+    margin-top: 50px;
+}
+.cau44{
+    width: 400px;
+    height: 300px;
+    margin-top: 50px;
+    box-shadow: 5px 8px 5px 8px gray;
+    border: 2px ridge gray;
+    padding: 10px;
+    border-top: 5px grey;
+}
+.cau45{
+    width: 500px;
+    height: 200px;
+    margin-top: 50px;
+    box-shadow: 5px 8px 5px 8px gray;
+    border: 2px ridge gray;
+    padding: 10px;
+    border-top: 5px grey;
+}
+.cau51{
+    width: 500px;
+    max-height: 800px;
+    border: 2px ridge black;
+}
+.hinh51{
+    width: 75%;
+}
+.cau5 .cau51d ul li a:hover{
+    color: chartreuse;
+}
+.cau5{
+    margin: auto;
+}
+.cau51c ul li{
+    float:left;
+    border-right:2px solid black;
+    list-style:none;
+    padding:0px 5px;
+}
+.cau51{
+    display: contents;
+}
+#menu521 ul li{
+    float:left;
+    border-right:2px solid violet;
+    list-style:none;
+    padding:0px 5px;
+    
+}
+#menu521 ul li:last-child{
+    border: none;
+}
+.cau52{
+    float: left;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    border: 2px grey;
+    box-shadow: 3px 5px 5px 5px;
+    padding: 5px;
+}
